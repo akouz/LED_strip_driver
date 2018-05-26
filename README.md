@@ -10,5 +10,3 @@ Gerber files for PCB fabrication in LED_strip_drv_rev_1_1.zip
 Schematic in LED_strip_drv_rev_1_1.pdf
 
 KiCAD project in LED_strip_drv_KiCAD.zip
-
-Arduino sketch uses FastLED, it is in LED_strip_drv_Sketch.zip
