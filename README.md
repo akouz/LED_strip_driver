@@ -7,8 +7,6 @@ PCB size 50x50mm. Relay is Millionspot H500S12. Arduino Mini Pro 5V 16 MHz. Phot
 
 ![Pic1](https://github.com/akouz/LED_strip_driver/blob/master/LED_strip_drv_in_box.jpg)
 
-Gerber files for PCB fabrication in LED_strip_drv_rev_1_1.zip
-
-Schematic in LED_strip_drv_rev_1_1.pdf
-
-KiCAD_4 project in LED_strip_drv_KiCAD.zip
+  * Gerber files for PCB fabrication in LED_strip_drv_rev_1_1.zip
+  * Schematic in LED_strip_drv_rev_1_1.pdf
+  * KiCAD_4 project in LED_strip_drv_KiCAD.zip
