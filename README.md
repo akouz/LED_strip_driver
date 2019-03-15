@@ -5,6 +5,8 @@ Runs from 12V 1A power supply. Uses a photoresistor to sense ambient light. At d
 
 PCB size 50x50mm. Relay is Millionspot H500S12. Arduino Mini Pro 5V 16 MHz. Photoresistor 1 MOhm. Enclosure is a 200 ml transparent plastic storage container from www.sistemaplastic.com
 
+![Pic1](https://github.com/akouz/LED_strip_driver/blob/master/LED_strip_drv_in_box.jpg)
+
 Gerber files for PCB fabrication in LED_strip_drv_rev_1_1.zip
 
 Schematic in LED_strip_drv_rev_1_1.pdf
